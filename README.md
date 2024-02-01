@@ -2,12 +2,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a front-end developer with a passion for web development. Currently, I'm working on a project called [Best Tic-Tac-Toe](https://github.com/rozhkoy/best-tic-tac-toe). I am a student at WSB Merito University, where I continue to deepen my knowledge in this field. I am always open to new ideas and opportunities and remain enthusiastic about learning and growing in web development.
+I'm a front-end developer with a passion for web development. Currently, I'm working on a project called [Online Best Tic-Tac-Toe with multiplayer](https://github.com/rozhkoy/best-tic-tac-toe). I am a student at WSB Merito University, where I continue to deepen my knowledge in this field. I am always open to new ideas and opportunities and remain enthusiastic about learning and growing in web development.
 
 ## 📚 My Recent Projects
 
 - **Personal Projects:**
-    - ❌⭕ [Best Tic-Tac-Toe](https://github.com/rozhkoy/best-tic-tac-toe)
+    - ❌⭕ [Online Best Tic-Tac-Toe with multiplayer](https://github.com/rozhkoy/best-tic-tac-toe)
 - **Freelance Projects:**
     - [List of Selected Projects](https://github.com/rozhkoy/projects)
 
