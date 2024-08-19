@@ -5,7 +5,8 @@
 I'm a front-end developer with a passion for web development. Take a look  at my project [Online Best Tic-Tac-Toe with multiplayer](https://github.com/rozhkoy/best-tic-tac-toe). Feel free to contribute. I am a student at WSB Merito University, where I continue to deepen my knowledge in this field. I am always open to new ideas and opportunities and remain enthusiastic about learning and growing in web development.
 
 ## 📚 My Recent Projects
-
+- **NPM Packages**:
+    - 🔐 [password-strength-analyzer](https://github.com/rozhkoy/password-strength-analyzer)
 - **Personal Projects:**
     - ❌⭕ [Online Best Tic-Tac-Toe with multiplayer](https://github.com/rozhkoy/best-tic-tac-toe)
 - **Freelance Projects:**
