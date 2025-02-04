@@ -1,4 +1,4 @@
-# Hello, world! 👋 I'm Yaroslav Rozhko
+# Hello, world! 👋 I'm Jaroslav Rozhko
 
 ## 👨‍💻 About Me
 
@@ -7,16 +7,11 @@ I'm a front-end developer with a passion for web development. Take a look  at my
 ## 📚 My Recent Projects
 - **NPM Packages**:
     - 🔐 [password-strength-analyzer](https://github.com/rozhkoy/password-strength-analyzer)
-- **Personal Projects:**
-    - ❌⭕ [Online Best Tic-Tac-Toe with multiplayer](https://github.com/rozhkoy/best-tic-tac-toe)
-- **Freelance Projects:**
-    - [List of Selected Projects](https://github.com/rozhkoy/projects)
 
 ## 🌐 Where to Find Me
 
-- **Website:** [https://rozhkoy.xyz/](https://rozhkoy.xyz/)
-- **LinkedIn:** [Yaroslav Rozhko](https://www.linkedin.com/in/yaroslav-rozhko)
-- **Email:** [rozhkoya.work@gmail.com](mailto:rozhkoya.work@gmail.com)
+- **LinkedIn:** [Yaroslav Rozhko](https://www.linkedin.com/in/jaroslav-rozhko-dev/)
+- **Email:** [rozhkoya.work@gmail.com](mailto:jaroslav.rozhko@gmail.com)
 
 ## 💼 My Skills
 
